@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<ThreadType>
+  <Name>ARC Optic Threads</Name>
+  <CustomName>ARC Optic Threads V1</CustomName>
+  <Unit>in</Unit>
+  <Angle>60</Angle>
+  <SortOrder>3</SortOrder>
+  <ThreadSize>
+    <Size>1.035</Size>
+    <Designation>
+      <ThreadDesignation>Thor SM1 1.035-40</ThreadDesignation>
+      <CTD>1.035x40</CTD>
+      <TPI>40.0</TPI>
+        <Thread>
+        <Gender>external</Gender>
+        <Class>2A</Class>
+        <MajorDia>1.0313</MajorDia>
+        <PitchDia>1.0164</PitchDia>
+        <MinorDia>1.0068</MinorDia>
+      </Thread>
+      <Thread>
+        <Gender>internal</Gender>
+        <Class>2B</Class>
+        <MajorDia>1.0350</MajorDia>
+        <PitchDia>1.0217</PitchDia>
+        <MinorDia>1.0140</MinorDia>
+      </Thread>
+    </Designation>
+  </ThreadSize>
+</ThreadType>
